@@ -13,7 +13,7 @@ public class KeyPressedDemoApplication extends Application {
     public void start(Stage stage) throws IOException {
         FXMLLoader fxmlLoader = new FXMLLoader(KeyPressedDemoApplication.class
                 .getResource("/de/iav/eventdemofx2/KeyPressedDemo.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(), 320, 240);
+        Scene scene = new Scene(fxmlLoader.load());
 
         KeyPressedDemoController keyPressedDemoController = fxmlLoader.getController();
         keyPressedDemoController.initialize(scene);
