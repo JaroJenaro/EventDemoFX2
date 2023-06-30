@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78f4146a-2757-4dd7-bf70-7d0d55ad8633" name="Changes" comment="Bis Bonus Pfeiltasten Jaro">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/de/iav/eventdemofx2/KeyPresedDemo/KeyPressedDemoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/de/iav/eventdemofx2/KeyPresedDemo/KeyPressedDemoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
-    <list id="295521a3-87a7-427e-9112-1bc29d5e29fa" name="Changes by erumshaukat" comment="" />
-    <list id="c220141c-ed85-43af-9467-1d537cda93b5" name="Changes by mathias" comment="Changes by mathias" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1688046534098</updated>
       <workItem from="1688046535629" duration="522000" />
-      <workItem from="1688047071362" duration="6753000" />
+      <workItem from="1688047071362" duration="7538000" />
     </task>
     <task id="LOCAL-00001" summary="Big Bang">
       <created>1688046856333</created>
@@ -112,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688054149476</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Bis Bonus Pfeiltasten Jaro">
+      <created>1688107212535</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688107212535</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,8 +125,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Big Bang" />
     <MESSAGE value="Bis Bonus Pfeiltasten" />
-    <MESSAGE value="Bis Bonus Pfeiltasten Jaro" />
     <MESSAGE value="Changes by mathias" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes by mathias" />
+    <MESSAGE value="Bis Bonus Pfeiltasten Jaro" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bis Bonus Pfeiltasten Jaro" />
   </component>
 </project>
